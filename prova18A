@@ -1,9 +1,28 @@
+
+1
+
 programa {
   funcao inicio() {
     escreva("Bom dia amiguinho") 
   }
 }
 
+
+------------------------------------------------------
+2
+
+programa {
+  funcao inicio() 
+  {
+    escreva cadeia ("digie seu nome ")
+    leia(nome)
+    escreva (nome)
+  }
+}
+
+
+------------------------------------------------------
+3
 
 programa 
 { 
