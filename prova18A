@@ -1,1 +1,19 @@
+programa {
+  funcao inicio() {
+    escreva("Bom dia amiguinho") 
+  }
+}
 
+
+programa 
+{ 
+  funcao inicio 
+  {
+  inteiro pontuacao( )
+   
+
+  inteiro pontos = 10 
+  escreva("Você fez ", pontos, " pontos!\n")
+
+  }
+}
