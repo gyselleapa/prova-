@@ -1,1 +1,69 @@
+<!DOCTYPE html>
+<html lang=" pt br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOJINHA DE RUA </title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+</head>
+<body>
+    <div class="w3-bar w3-black" >
+        <a href="/index.html">Início</a>
+        <a href="paginas/produtos/calcados/index.html" class="w3-bar-item w3-button w3-mobile">calçados</a>
+        <a href="/paginas/clientes/login.html" class="w3-bar-item w3-button w3-mobile">login</a>
+        <div class="w3-dropdown-hover w3-mobile">
+        <button class="w3-button">vestuario <i class="fa fa-caret-down"></i></button>
+        <div class="w3-dropdown-content w3-bar-block w3-dark-grey">
+          <a href="/paginas/produtos/vestuario/masculino/index.html" class="w3-bar-item w3-button w3-mobile">masculino</a>
+          <a href="/paginas/produtos/vestuario/feminino/index.html" class="w3-bar-item w3-button w3-mobile">feminino</a>
+          <a href="/paginas/produtos/vestuario/infantil/index.html" class="w3-bar-item w3-button w3-mobile">infantil</a>
+        </div>
+
+    </div>
+    </div> 
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>controle academico</title>
+</head>
+<body>
+    <nav>
+        <a href="/paginas/alunos/">alunos</a> |
+        <a href="/paginas/professores/">professores</a> |
+        <a href="/paginas/secretaria/">secretaria</a> |
+        <a href="/paginas/fucionarios/">funcionarios</a>
+        <a href="/paginas/tutores/">tutores</a>
+      </nav>
+
+    <img src="imagens/logo@escola.png" alt="logotipo da escola" width="150px">
+    <h1>controle academico</h1>
+    <ul>
+        <li><a href="paginas/alunos.html">alunos</a>   </li>
+        <li><a href="paginas/profesores.html">professores</a>   </li>
+        <li><a href="paginas/secretaria.html">secretaria</a>   </li>
+        <li><a href="paginas/funcionarios.html">funcionarios</a>   </li>
+        <li><a href="paginas/tutores.html">tutores</a>   </li>
+    </ul>
+    <ol>
+        <h3>diciplina</h3>
+        <li><a href="paginas/quadrodehorarios.html">quadro de horarios</a></li>        
+        <li>matematica</li>
+        <li>portugues</li>
+        <li>historia</li>
+        <li>biologia</li>
+        <li>informatica</li>
+    </ol>
+    
+</body>
+</html>
