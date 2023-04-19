@@ -67,3 +67,31 @@
     
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html lang="pt br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Padaria Raio de Sol</title>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+    <h1>Padaria Raio de Sol </h1>
+        <p>Pães frescos todos os dias para alegrar as suas manhãs </p>
+    <!--menu-->
+    <div class="menu">
+
+        <a href="/paginas/inicio/index.html">inicio </a>
+        <a href="#"> produtos</a>
+        <a href="#"> promocoes</a>
+        <a href="#"> contato</a>
+        <a href="#"> cadastro  </a>
+
+    </div>
+   
+</body>
+</html>
